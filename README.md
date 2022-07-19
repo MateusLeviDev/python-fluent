@@ -1,2 +1,3 @@
-# python-fluent
-## Python study material 
+# PYTHON-FLUENT
+## - Python study material 
+### - Material de estudo sobre Python
